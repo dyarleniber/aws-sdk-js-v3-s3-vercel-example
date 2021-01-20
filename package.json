@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.3.0",
+    "axios": "^0.21.1",
+    "formidable": "^1.2.2",
     "next": "10.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1"
